@@ -1,0 +1,6 @@
+data/br.mus.guilherme.Avalyn.desktop.in
+data/br.mus.guilherme.Avalyn.metainfo.xml.in
+data/br.mus.guilherme.Avalyn.gschema.xml
+src/main.py
+src/window.py
+src/window.ui

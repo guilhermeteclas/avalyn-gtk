@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Avalyn
+Exec=avalyn
+Icon=br.mus.guilherme.Avalyn
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
